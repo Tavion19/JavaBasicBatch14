@@ -1,0 +1,37 @@
+switch 
+	-Limitations
+		Data Type: CANNOT work with double float long boolean
+		
+		operators: Cannot work with logical and relational
+		
+	
+	Loops in Java - is a feature used to execute a particular part of the program repeatedly if a given condition evaluates to be true
+	
+	we use it for repetitive operations
+	
+	it allows us to execute a statement or group statements multiple times
+	
+	
+	ex.
+	
+	int time=10;
+	
+	if (time<12) 
+	{
+	System.out.println("good morning");
+	}
+	
+	while (time<12) {
+	
+	System.out.println("good morning");
+	}
+	
+	
+	
+	while loop syntax
+	
+	while(boolean condition) {
+	
+	code to be repeated
+	
+	
